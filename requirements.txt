@@ -1,0 +1,7 @@
+akad
+requests
+thrift
+rsa
+PyQRCode
+hyper
+ffmpy
