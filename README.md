@@ -12,8 +12,8 @@ LINE BOT Unofficial Protect with simply code ^^
 `pip3 install -r requirements.txt`
 
 ##Author
-- [LINE]('https://line.me/ti/p/~arsy22bai')
-- [ARS]('https://arsybai.xyz')
+- [LINE](https://line.me/ti/p/~arsy22bai)
+- [ARS](https://arsybai.xyz)
 
 ## Thx to
-- [Dyseo]('https://github.com/dyseo')
+- [Dyseo](https://github.com/dyseo)
