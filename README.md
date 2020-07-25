@@ -13,7 +13,7 @@ LINE BOT Unofficial Protect with simply code ^^
 
 ## Author
 - [LINE](https://line.me/ti/p/~arsy22bai)
-- [ARS](https://arsybai.xyz)
+- [ARS](https://arsybai.com)
 
 ## Thx to
 - [Dyseo](https://github.com/dyseo)
